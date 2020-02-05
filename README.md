@@ -46,11 +46,11 @@ go run main.go
 ### Endpoints
 
 ```
-GET api/books
-GET api/books/{id}
-POST api/books
-PUT api/books/{id}
-DELETE api/books/{id}
+GET localhost:3000/books
+GET localhost:3000/books/{id}
+POST localhost:3000/books
+PUT localhost:3000/books/{id}
+DELETE localhost:3000/books/{id}
 
 *Use Postman to send POST, PUT, DELETE requests
 ```
