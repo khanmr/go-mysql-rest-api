@@ -30,7 +30,7 @@ INSERT INTO books (isbn, title, author) VALUES (
 ```
 
 ```
-Update user password: "root:<password>@/gorestapi"
+Update username and password: "<username>:<password>@/gorestapi"
 ```
 
 ```
@@ -45,4 +45,5 @@ GET api/books/{id}
 POST api/books
 PUT api/books/{id}
 DELETE api/books/{id}
+*Use Postman to send POST, PUT, DELETE requests
 ```
