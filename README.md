@@ -1,5 +1,9 @@
 # Golang REST API with MySQL Database
 
+## Summary
+
+This is a rest api written in golang for a books database. Users can create, read, update and delete books using the endpoints.
+
 ## Quick Start
 
 ```
